@@ -1,0 +1,8 @@
+{
+  "name": "knk-insulation",
+  "version": "0.1.0",
+  "description": "Sanity.io studio and web project for KNK Insulation and Life Safety Inc.",
+  "main": "index.js",
+  "author": "Mike Hartzell",
+  "license": "UNLICENSED"
+}
